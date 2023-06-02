@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-comfortaa: Comfortaa;
+  --font-jetbrains-mono: "JetBrains Mono";
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-31xl: 50px;
+  --font-size-base: 16px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-gray: #131313;
+  --color-white: #fff;
+  --color-darkorchid: #6d38c5;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-14xl: 33px;
+}
